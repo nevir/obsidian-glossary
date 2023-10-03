@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
+	"id": "glossary",
+	"name": "Glossary",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.14",
+	"description": "Create and manage a glossary of terms that can be referenced throughout your Obsidian vault",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/nevir",
 	"isDesktopOnly": false
 }
