@@ -652,9 +652,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"obsidian-sample-plugin@workspace:.":
+"obsidian-glossary@workspace:.":
   version: 0.0.0-use.local
-  resolution: "obsidian-sample-plugin@workspace:."
+  resolution: "obsidian-glossary@workspace:."
   dependencies:
     "@types/node": "npm:^16.11.6"
     "@typescript-eslint/eslint-plugin": "npm:5.29.0"
